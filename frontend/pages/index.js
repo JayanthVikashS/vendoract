@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>LLM Product Research Agent</title>
+        <title>Vendoract</title>
       </Head>
       <ProductResearchAgent />
     </div>
